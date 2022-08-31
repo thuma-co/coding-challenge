@@ -22,7 +22,7 @@ The application currently has 3 routes (/, /products/bed, /products/mattress) wh
 
 5. **OPTIONAL: Make it better?** While working in this project was there something you didn't like? Maybe something about the "design" really bugs you. Maybe you don't like how the files are organized. Maybe you don't like a variable name or algorithm. Thuma's culture encourages collaboration. Be the change you want to see. Document what you did so we can discuss it (and maybe incorportate it into the default template for this interview question). Just don't make any changes that would make it harder to grade tasks 2-4.
 
-6. **Submit your work.** Please send a link to your completed challenge to the person who sent it to you.
+6. **Submit your work.** Please send a link to your completed challenge to the person who sent it to you. **DO NOT OPEN A PR**
 
 **Note:** _You should not need any additional javascript dependencies to accomplish these tasks, so please do not install any._
 
